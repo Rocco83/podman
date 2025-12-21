@@ -1,5 +1,10 @@
 # Changelog
 
+## Release 0.7.15
+  - Dependecy update - allow puppetlabs/selinux_code 2.x #122 
+  - Remove Bashism and update from private registry #97. Contributed by niklas
+  - Minor unit test updates for #97 changes
+
 ## Release 0.7.14
 - Properly handle idempotently removing image. Contributed by ehelms
 - Allow puppet/systemd 9.x. Contributed by evgeni
